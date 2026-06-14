@@ -1,0 +1,100 @@
+EmployeeNumber,Age,Department,JobRole,MonthlyIncome,OverTime,JobSatisfaction,Attrition
+10,59,Research & Development,Laboratory Technician,2670,Yes,1,No
+21,32,Research & Development,Research Scientist,3298,Yes,2,No
+33,32,Research & Development,Research Scientist,3919,Yes,1,Yes
+51,36,Research & Development,Research Scientist,3419,Yes,1,No
+68,44,Sales,Sales Executive,5454,Yes,1,No
+75,35,Research & Development,Laboratory Technician,4014,Yes,1,No
+103,46,Human Resources,Human Resources,5021,Yes,2,No
+121,30,Sales,Sales Executive,5209,Yes,2,No
+133,37,Human Resources,Human Resources,2073,Yes,1,Yes
+161,56,Research & Development,Research Scientist,4963,Yes,2,Yes
+214,58,Research & Development,Research Scientist,3346,Yes,2,No
+233,27,Research & Development,Research Scientist,3058,Yes,2,No
+240,45,Sales,Sales Executive,5006,Yes,1,No
+241,56,Research & Development,Research Scientist,4257,Yes,1,No
+248,41,Sales,Sales Representative,3140,Yes,2,Yes
+267,37,Research & Development,Research Scientist,3564,Yes,1,No
+284,22,Research & Development,Research Scientist,2328,Yes,2,No
+297,30,Research & Development,Research Scientist,2657,Yes,1,Yes
+351,42,Research & Development,Laboratory Technician,2593,Yes,1,No
+382,38,Sales,Sales Executive,5605,Yes,1,No
+390,26,Research & Development,Healthcare Representative,4741,Yes,1,No
+394,26,Research & Development,Laboratory Technician,2373,Yes,2,Yes
+434,27,Research & Development,Research Scientist,2478,Yes,2,No
+436,32,Sales,Sales Executive,5228,Yes,2,No
+449,27,Sales,Sales Executive,6349,Yes,2,No
+454,29,Research & Development,Laboratory Technician,2119,Yes,1,Yes
+466,41,Research & Development,Manufacturing Director,6032,Yes,2,No
+474,37,Research & Development,Research Scientist,5974,Yes,1,No
+478,21,Sales,Sales Representative,2174,Yes,2,Yes
+493,31,Research & Development,Research Scientist,2657,Yes,2,No
+518,37,Research & Development,Manufacturing Director,4197,Yes,2,No
+554,24,Sales,Sales Representative,3202,Yes,2,Yes
+614,18,Sales,Sales Representative,1878,Yes,2,Yes
+630,52,Research & Development,Research Scientist,5577,Yes,1,No
+702,33,Research & Development,Research Scientist,3348,Yes,1,Yes
+741,28,Research & Development,Research Scientist,2216,Yes,2,Yes
+799,54,Research & Development,Manufacturing Director,5485,Yes,1,No
+802,37,Research & Development,Research Scientist,2782,Yes,1,No
+803,38,Research & Development,Manufacturing Director,5980,Yes,1,No
+811,23,Research & Development,Laboratory Technician,1601,Yes,1,Yes
+816,29,Research & Development,Laboratory Technician,2319,Yes,1,Yes
+846,28,Sales,Sales Executive,4779,Yes,2,No
+879,25,Sales,Sales Executive,4194,Yes,1,No
+881,35,Research & Development,Research Scientist,2022,Yes,2,Yes
+910,33,Human Resources,Human Resources,2277,Yes,2,No
+913,44,Research & Development,Research Scientist,2559,Yes,1,No
+932,39,Research & Development,Laboratory Technician,2404,Yes,1,Yes
+939,33,Research & Development,Research Scientist,2799,Yes,1,No
+952,25,Sales,Sales Representative,2413,Yes,2,Yes
+957,41,Research & Development,Laboratory Technician,4721,Yes,1,No
+959,19,Sales,Sales Representative,2121,Yes,2,Yes
+964,40,Research & Development,Research Scientist,3617,Yes,2,No
+991,31,Research & Development,Research Scientist,2321,Yes,1,Yes
+994,29,Research & Development,Research Scientist,2404,Yes,1,Yes
+998,33,Research & Development,Healthcare Representative,5488,Yes,2,No
+1002,45,Research & Development,Laboratory Technician,3633,Yes,1,No
+1010,35,Research & Development,Laboratory Technician,3743,Yes,2,Yes
+1016,20,Research & Development,Research Scientist,2600,Yes,1,Yes
+1034,55,Research & Development,Healthcare Representative,6385,Yes,2,No
+1053,26,Research & Development,Research Scientist,2042,Yes,1,Yes
+1080,46,Research & Development,Research Scientist,4615,Yes,1,No
+1108,33,Research & Development,Research Scientist,2313,Yes,2,Yes
+1131,21,Research & Development,Research Scientist,2070,Yes,2,No
+1241,30,Research & Development,Research Scientist,3579,Yes,2,No
+1244,27,Research & Development,Research Scientist,2235,Yes,1,No
+1248,19,Research & Development,Research Scientist,1859,Yes,2,Yes
+1281,34,Sales,Sales Executive,4538,Yes,1,No
+1292,42,Research & Development,Research Scientist,2372,Yes,2,No
+1294,36,Research & Development,Manufacturing Director,5410,Yes,2,No
+1331,31,Sales,Sales Representative,2302,Yes,2,Yes
+1396,32,Sales,Sales Executive,4078,Yes,2,No
+1458,39,Research & Development,Laboratory Technician,3646,Yes,1,Yes
+1489,34,Sales,Sales Executive,4599,Yes,2,Yes
+1494,24,Research & Development,Laboratory Technician,3172,Yes,1,Yes
+1569,35,Research & Development,Laboratory Technician,2074,Yes,1,Yes
+1586,29,Research & Development,Laboratory Technician,4723,Yes,1,No
+1594,36,Research & Development,Laboratory Technician,5562,Yes,1,No
+1604,28,Research & Development,Laboratory Technician,2408,Yes,2,Yes
+1611,45,Research & Development,Laboratory Technician,5769,Yes,1,No
+1649,40,Research & Development,Laboratory Technician,2166,Yes,1,Yes
+1669,29,Sales,Sales Executive,4187,Yes,2,No
+1674,49,Research & Development,Laboratory Technician,2587,Yes,1,No
+1733,36,Sales,Sales Executive,6134,Yes,1,Yes
+1783,22,Research & Development,Laboratory Technician,2398,Yes,1,Yes
+1792,44,Research & Development,Research Scientist,2342,Yes,2,Yes
+1818,26,Human Resources,Human Resources,2148,Yes,2,Yes
+1844,29,Human Resources,Human Resources,2335,Yes,1,Yes
+1878,22,Research & Development,Research Scientist,2472,Yes,2,Yes
+1885,37,Research & Development,Research Scientist,4284,Yes,1,No
+1886,35,Research & Development,Manufacturing Director,4788,Yes,2,No
+1905,34,Research & Development,Research Scientist,2307,Yes,1,Yes
+1937,38,Research & Development,Research Scientist,2133,Yes,2,No
+1948,31,Research & Development,Research Scientist,3065,Yes,1,No
+1972,38,Human Resources,Human Resources,2991,Yes,2,No
+1980,54,Research & Development,Manufacturing Director,4440,Yes,1,No
+1998,42,Research & Development,Research Scientist,5410,Yes,1,No
+2021,21,Sales,Sales Representative,2380,Yes,1,No
+2053,29,Research & Development,Laboratory Technician,4025,Yes,2,No
+2064,27,Research & Development,Manufacturing Director,6142,Yes,2,No
