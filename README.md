@@ -50,6 +50,33 @@ Scikit-learn	Machine Learning
 SQL (MySQL)	Business Queries & Analysis
 Power BI	Interactive Dashboard
 Excel	Initial Data Exploration
+# 📊 Dashboard Preview
+
+# 📊 Dashboard Preview
+
+### Executive Overview
+
+<p align="center">
+  <img src="Executive_Overview.png" width="1000">
+</p>
+
+### Risk Analysis
+
+<p align="center">
+  <img src="Risk_analysis.png" width="1000">
+</p>
+
+### ML Insights
+
+<p align="center">
+  <img src="ML_insights.png" width="1000">
+</p>
+
+### Business Impact
+
+<p align="center">
+  <img src="Business_impact.png" width="1000">
+</p>
 📁 Project Structure
 employee-attrition-intelligence-system/
 
